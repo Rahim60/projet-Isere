@@ -1,0 +1,975 @@
+[
+  {
+    "nouvelle_commune": "Chantepérier",
+    "communes_fusionnees": [
+      "Chantelouve",
+      "Le Périer"
+    ],
+    "regime": "commune nouvelle(avec communes déléguées)",
+    "date_decision": "18 décembre 2018(Arrêté)[Off. 5]",
+    "date_effet": "1erjanvier 2019"
+  },
+  {
+    "nouvelle_commune": "Le Haut-Bréda",
+    "communes_fusionnees": [
+      "La Ferrière",
+      "Pinsot"
+    ],
+    "regime": "commune nouvelle(avec communes déléguées)",
+    "date_decision": "18 décembre 2018(Arrêté)[Off. 6]",
+    "date_effet": "1erjanvier 2019"
+  },
+  {
+    "nouvelle_commune": "Plateau-des-Petites-Roches",
+    "communes_fusionnees": [
+      "Saint-Hilaire",
+      "Saint-Bernard",
+      "Saint-Pancrasse"
+    ],
+    "regime": "commune nouvelle(avec communes déléguées)",
+    "date_decision": "18 décembre 2018(Arrêté)[Off. 7]",
+    "date_effet": "1erjanvier 2019"
+  },
+  {
+    "nouvelle_commune": "Porte-des-Bonnevaux",
+    "communes_fusionnees": [
+      "Semons",
+      "Arzay",
+      "Commelle",
+      "Nantoin"
+    ],
+    "regime": "commune nouvelle(avec communes déléguées)",
+    "date_decision": "12 novembre 2018(Arrêté)21 décembre 2018(Arrêté)[Off. 8]",
+    "date_effet": "1erjanvier 2019"
+  },
+  {
+    "nouvelle_commune": "Val-de-Virieu",
+    "communes_fusionnees": [
+      "Virieu",
+      "Panissage"
+    ],
+    "regime": "commune nouvelle(SANS communes déléguées depuis le 15-3-2020)",
+    "date_decision": "11 octobre 2018(Arrêté)[Off. 9]",
+    "date_effet": "1erjanvier 2019"
+  },
+  {
+    "nouvelle_commune": "Ornacieux-Balbins",
+    "communes_fusionnees": [
+      "Ornacieux",
+      "Balbins"
+    ],
+    "regime": "commune nouvelle(avec communes déléguées)",
+    "date_decision": "26 septembre 2018(Arrêté)[Off. 10]",
+    "date_effet": "1erjanvier 2019"
+  },
+  {
+    "nouvelle_commune": "Châtel-en-Trièves",
+    "communes_fusionnees": [
+      "Saint-Sébastien",
+      "Cordéac"
+    ],
+    "regime": "commune nouvelle(avec communes déléguées)",
+    "date_decision": "18 novembre 2016(Arrêté)[Off. 11]",
+    "date_effet": "1erjanvier 2017"
+  },
+  {
+    "nouvelle_commune": "Les Deux Alpes",
+    "communes_fusionnees": [
+      "Mont-de-Lans",
+      "Vénosc"
+    ],
+    "regime": "commune nouvelle(avec communes déléguées)",
+    "date_decision": "2 septembre 2016(Arrêté)[Off. 12]",
+    "date_effet": "1erjanvier 2017"
+  },
+  {
+    "nouvelle_commune": "La Sure en Chartreuse",
+    "communes_fusionnees": [
+      "Saint-Julien-de-Ratz",
+      "Pommiers-la-Placette"
+    ],
+    "regime": "commune nouvelle(SANS communes déléguées)",
+    "date_decision": "2 septembre 2016(Arrêté)[Off. 13]",
+    "date_effet": "1erjanvier 2017"
+  },
+  {
+    "nouvelle_commune": "Arandon-Passins",
+    "communes_fusionnees": [
+      "Passins",
+      "Arandon"
+    ],
+    "regime": "commune nouvelle(avec communes déléguées)",
+    "date_decision": "29 juillet 2016(Arrêté)[Off. 14]",
+    "date_effet": "1erjanvier 2017"
+  },
+  {
+    "nouvelle_commune": "Villages du Lac de Paladru",
+    "communes_fusionnees": [
+      "Paladru",
+      "Le Pin"
+    ],
+    "regime": "commune nouvelle(avec communes déléguées)",
+    "date_decision": "29 juillet 2016(Arrêté)[Off. 15]",
+    "date_effet": "1erjanvier 2017"
+  },
+  {
+    "nouvelle_commune": "Les Abrets en Dauphiné",
+    "communes_fusionnees": [
+      "Les Abrets",
+      "La Bâtie-Divisin",
+      "Fitilieu"
+    ],
+    "regime": "commune nouvelle(avec communes déléguées)",
+    "date_decision": "30 décembre 2015(Arrêté)[Off. 16]",
+    "date_effet": "1erjanvier 2016"
+  },
+  {
+    "nouvelle_commune": "Les Avenières Veyrins-Thuellin",
+    "communes_fusionnees": [
+      "Les Avenières",
+      "Veyrins-Thuellin[Note 3]"
+    ],
+    "regime": "commune nouvelle(avec 2 communes déléguées)",
+    "date_decision": "2 décembre 2015(Arrêté)[Off. 17]",
+    "date_effet": "1erjanvier 2016"
+  },
+  {
+    "nouvelle_commune": "Autrans-Méaudre en Vercors",
+    "communes_fusionnees": [
+      "Méaudre",
+      "Autrans"
+    ],
+    "regime": "commune nouvelle(avec communes déléguées)",
+    "date_decision": "20 novembre 2015(Arrêté)[Off. 18]",
+    "date_effet": "1erjanvier 2016"
+  },
+  {
+    "nouvelle_commune": "Crêts en Belledonne",
+    "communes_fusionnees": [
+      "Saint-Pierre-d'Allevard",
+      "Morêtel-de-Mailles"
+    ],
+    "regime": "commune nouvelle(SANS communes déléguées depuis le 1-1-2020)",
+    "date_decision": "27 octobre 2015(Arrêté)24 novembre 2015(Arrêté)[Off. 19]",
+    "date_effet": "1erjanvier 2016"
+  },
+  {
+    "nouvelle_commune": "Saint Antoine l'Abbaye",
+    "communes_fusionnees": [
+      "Saint-Antoine-l'Abbaye",
+      "Dionay"
+    ],
+    "regime": "commune nouvelle(SANS communes déléguées depuis le 21-3-2022)[Note 4]",
+    "date_decision": "30 septembre 2015(Arrêté)[Off. 20]",
+    "date_effet": "1erjanvier 2016"
+  },
+  {
+    "nouvelle_commune": "Eclose-Badinières",
+    "communes_fusionnees": [
+      "Eclose",
+      "Badinières"
+    ],
+    "regime": "commune nouvelle(SANS communes déléguées)",
+    "date_decision": "24 décembre 2014(Arrêté)[Off. 21]",
+    "date_effet": "1erjanvier 2015"
+  },
+  {
+    "nouvelle_commune": "Creys-Mépieu",
+    "communes_fusionnees": [
+      "Creys-et-Pusignieu",
+      "Mépieu"
+    ],
+    "regime": "fusion association(fusion simple depuis le 12-8-1994)",
+    "date_decision": "29 septembre 1989(Arrêté)[Off. 22]",
+    "date_effet": "30 septembre 1989"
+  },
+  {
+    "nouvelle_commune": "Saint-Vincent-de-Mercuze-Sainte-Marie-du-Mont",
+    "communes_fusionnees": [
+      "Saint-Vincent-de-Mercuze(commune rétablie en 1984)",
+      "Sainte-Marie-du-Mont(commune rétablie en 1984)"
+    ],
+    "regime": "fusion association(dissoute en 1984)",
+    "date_decision": "29 décembre 1972(Arrêté)[Off. 23]",
+    "date_effet": "1erjanvier 1973"
+  },
+  {
+    "nouvelle_commune": "Veyrins-Thuellin",
+    "communes_fusionnees": [
+      "Veyrins",
+      "Thuellin[Note 3]"
+    ],
+    "regime": "fusion association[Note 3](jusqu'au 31-12-2015)",
+    "date_decision": "29 décembre 1972(Arrêté)[Off. 24]",
+    "date_effet": "1erjanvier 1973"
+  },
+  {
+    "nouvelle_commune": "Vézeronce-Curtin",
+    "communes_fusionnees": [
+      "Vézeronce",
+      "Curtin"
+    ],
+    "regime": "fusion simple",
+    "date_decision": "29 décembre 1972(Arrêté)[Off. 25]",
+    "date_effet": "1erjanvier 1973"
+  },
+  {
+    "nouvelle_commune": "Mens",
+    "communes_fusionnees": [
+      "Mens",
+      "Saint-Genis"
+    ],
+    "regime": "fusion simple",
+    "date_decision": "20 décembre 1972(Arrêté)[Off. 26]",
+    "date_effet": "1erjanvier 1973"
+  },
+  {
+    "nouvelle_commune": "Ruy[Note 5]",
+    "communes_fusionnees": [
+      "Ruy",
+      "Montceau"
+    ],
+    "regime": "fusion association(fusion simple depuis le 1-7-2012)[C.O.G. 1]",
+    "date_decision": "2 octobre 1972(Arrêté)[Off. 27]",
+    "date_effet": "1erjanvier 1973"
+  },
+  {
+    "nouvelle_commune": "Bourgoin-Jallieu",
+    "communes_fusionnees": [
+      "Bourgoin",
+      "Jallieu"
+    ],
+    "regime": "fusion",
+    "date_decision": "22 octobre 1965(Arrêté)[Off. 28]",
+    "date_effet": "1erjanvier 1967[C.O.G. 2]"
+  },
+  {
+    "nouvelle_commune": "Mayres-Savel",
+    "communes_fusionnees": [
+      "Mayres",
+      "Savel"
+    ],
+    "regime": "fusion",
+    "date_decision": "27 février 1965(Arrêté)[Off. 29]",
+    "date_effet": "1ermars 1965[C.O.G. 2]"
+  },
+  {
+    "nouvelle_commune": "Le Pont-de-Beauvoisin",
+    "communes_fusionnees": [
+      "Le Pont-de-Beauvoisin",
+      "La Folatière"
+    ],
+    "regime": "fusion",
+    "date_decision": "26 novembre 1963(Arrêté)[Off. 30]",
+    "date_effet": "1erjanvier 1964[C.O.G. 2]"
+  },
+  {
+    "nouvelle_commune": "Charvieu-Chavagneux",
+    "communes_fusionnees": [
+      "Charvieu",
+      "Chavagneux-Montbertrand"
+    ],
+    "regime": "fusion",
+    "date_decision": "14 avril 1961(Arrêté)[Off. 31]",
+    "date_effet": "1ermai 1961[C.O.G. 2]"
+  },
+  {
+    "nouvelle_commune": "Varces-Allières-et-Risset",
+    "communes_fusionnees": [
+      "Varces",
+      "Allières-et-Risset"
+    ],
+    "regime": "fusion",
+    "date_decision": "12 mai 1955(Arrêté)[Off. 32]",
+    "date_effet": "1erjuillet 1955[C.O.G. 2]"
+  },
+  {
+    "nouvelle_commune": "Barraux",
+    "communes_fusionnees": [
+      "Barraux",
+      "Saint-Marcel(une partie)",
+      "Chapareillan",
+      "Chapareillan",
+      "Saint-Marcel(une partie)",
+      "Sainte-Marie-du-Mont",
+      "Montalieu(une partie)",
+      "Saint-Marcel(une partie)"
+    ],
+    "regime": "fusion",
+    "date_decision": "28 mai 1870(Décret)[Off. 33]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Saint-Vincent-de-Mercuze",
+    "communes_fusionnees": [
+      "Saint-Vincent-de-Mercuze",
+      "Montalieu(une partie)"
+    ],
+    "regime": "fusion",
+    "date_decision": "",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Montbonnot-Saint-Martin",
+    "communes_fusionnees": [
+      "Montbonnot",
+      "Saint-Martin-de-Miséré"
+    ],
+    "regime": "fusion",
+    "date_decision": "30 juin 1851(Loi)[Off. 34]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Reventin-Vaugris",
+    "communes_fusionnees": [
+      "Reventin",
+      "Vaugris"
+    ],
+    "regime": "fusion",
+    "date_decision": "5 septembre 1847(Ordonnance)[Off. 35]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Le Bourg-d'Oisans",
+    "communes_fusionnees": [
+      "Le Bourg-d'Oisans",
+      "Les Gauchoirs"
+    ],
+    "regime": "fusion",
+    "date_decision": "17 mai 1846(Loi)[Off. 36]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Bouvesse-Quirieu",
+    "communes_fusionnees": [
+      "Bouvesse",
+      "Quirieu"
+    ],
+    "regime": "fusion",
+    "date_decision": "25 mars 1845(Ordonnance)[Off. 37]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Annoisin-Chatelans",
+    "communes_fusionnees": [
+      "Annoisin",
+      "Chatelans"
+    ],
+    "regime": "fusion",
+    "date_decision": "24 février 1842(Ordonnance)[Off. 38]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "La Salette-Fallavaux",
+    "communes_fusionnees": [
+      "La Salette",
+      "Fallavaux"
+    ],
+    "regime": "fusion",
+    "date_decision": "10 janvier 1842(Ordonnance)[Off. 39]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Siccieu-Saint-Julien-et-Carisieu",
+    "communes_fusionnees": [
+      "Siccieu-Saint-Julien",
+      "Carisieu"
+    ],
+    "regime": "fusion",
+    "date_decision": "16 août 1841(Ordonnance)[Off. 40]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Tignieu-Jameyzieu",
+    "communes_fusionnees": [
+      "Tignieu",
+      "Jameyzieu"
+    ],
+    "regime": "fusion",
+    "date_decision": "7 septembre 1840(Ordonnance)[Off. 41]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Saint-Martin-de-Clelles",
+    "communes_fusionnees": [
+      "Saint-Martin-de-Clelles",
+      "Trézannes"
+    ],
+    "regime": "fusion",
+    "date_decision": "21 octobre 1839(Ordonnance)[Off. 42]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Saint-Michel-les-Portes",
+    "communes_fusionnees": [
+      "Saint-Michel-les-Portes",
+      "Thorannes"
+    ],
+    "regime": "fusion",
+    "date_decision": "21 octobre 1839(Ordonnance)[Off. 42]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Saint-Maximin",
+    "communes_fusionnees": [
+      "Saint-Maximin",
+      "Avalon"
+    ],
+    "regime": "fusion",
+    "date_decision": "28 octobre 1832(Ordonnance)[Cass. 1],[Arch. 1]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Pontcharra",
+    "communes_fusionnees": [
+      "Pontcharra",
+      "Grignon"
+    ],
+    "regime": "fusion",
+    "date_decision": "1831[Cass. 2],[Arch. 2]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "L'Albenc",
+    "communes_fusionnees": [
+      "L'Albenc",
+      "Chapuisière"
+    ],
+    "regime": "fusion",
+    "date_decision": "1ermars 1826[Cass. 3],[Arch. 3]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Fontanil[Note 6]",
+    "communes_fusionnees": [
+      "Fontanil",
+      "Cornillon-près-Fontanil"
+    ],
+    "regime": "fusion",
+    "date_decision": "7 octobre 1818(Ordonnance)[Cass. 4],[Arch. 4]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Saint-Pierre-de-Chartreuse",
+    "communes_fusionnees": [
+      "Saint-Pierre-de-Chartreuse",
+      "Chartrousse",
+      "Entremont"
+    ],
+    "regime": "fusion",
+    "date_decision": "28 mars 1818(Ordonnance)[Cass. 5],[Arch. 5]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Les Éparres",
+    "communes_fusionnees": [
+      "Les Éparres",
+      "Vermelle"
+    ],
+    "regime": "fusion",
+    "date_decision": "1801",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Jarrie",
+    "communes_fusionnees": [
+      "Jarrie",
+      "Isabeau-Marnais"
+    ],
+    "regime": "fusion",
+    "date_decision": "1801[Cass. 6],[Arch. 6]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Seyssins",
+    "communes_fusionnees": [
+      "Seyssins",
+      "Mont-Rigaud",
+      "Roux-de-Commiers"
+    ],
+    "regime": "fusion",
+    "date_decision": "1800[Arch. 7]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "La Bâtie-Divisin",
+    "communes_fusionnees": [
+      "La Bâtie-Divisin",
+      "La Chapelle-de-Peyrin"
+    ],
+    "regime": "fusion",
+    "date_decision": "1795-1800[Cass. 7]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Châbons",
+    "communes_fusionnees": [
+      "Châbons",
+      "Pupetières"
+    ],
+    "regime": "fusion",
+    "date_decision": "1795-1800[Cass. 8]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Luzinay",
+    "communes_fusionnees": [
+      "Luzinay",
+      "Islin"
+    ],
+    "regime": "fusion",
+    "date_decision": "1795-1800[Cass. 9]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Saint-Christophe-sur-Guiers",
+    "communes_fusionnees": [
+      "Saint-Christophe-sur-Guiers",
+      "La Ruchère"
+    ],
+    "regime": "fusion",
+    "date_decision": "1795-1800[Cass. 10]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Sassenage",
+    "communes_fusionnees": [
+      "Sassenage",
+      "Les Côtes-de-Sassenage"
+    ],
+    "regime": "fusion",
+    "date_decision": "1795-1800[Cass. 11]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Allières-et-Risset",
+    "communes_fusionnees": [
+      "Allières",
+      "Risset"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 12]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Aoste",
+    "communes_fusionnees": [
+      "Aoste",
+      "Champagne-Saint-Didier"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 13]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Bellegarde-Poussieu",
+    "communes_fusionnees": [
+      "Bellegarde",
+      "Poussieu"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 14]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Chevrières",
+    "communes_fusionnees": [
+      "Chevrières",
+      "Blagneux"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 15]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Chirens",
+    "communes_fusionnees": [
+      "Chirens",
+      "Clermont"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 16]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "La Cluze-et-Pâquier[Note 7]",
+    "communes_fusionnees": [
+      "La Cluze(ouLa Cluse)",
+      "Pâquier"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 17]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Corenc",
+    "communes_fusionnees": [
+      "Corenc",
+      "Mas-de-Mollard"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 18]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Cour-et-Buis",
+    "communes_fusionnees": [
+      "Cour",
+      "Buis"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 19]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Creys-et-Pusignieu",
+    "communes_fusionnees": [
+      "Creys",
+      "Pusignieu"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 20]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Livet-et-Gavet",
+    "communes_fusionnees": [
+      "Livet",
+      "Gavet"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 21]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Mépieu",
+    "communes_fusionnees": [
+      "Mépieu",
+      "Faverges"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 22]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Meylan",
+    "communes_fusionnees": [
+      "Meylan",
+      "La Bâtie-Meylan",
+      "Bouqueron",
+      "Saint-Mury"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 23]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Monsteroux-Milieu",
+    "communes_fusionnees": [
+      "Monsteroux",
+      "Milieu"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 24]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Montchaboud",
+    "communes_fusionnees": [
+      "Montchaboud",
+      "Moujaud"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 25]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Montseveroux",
+    "communes_fusionnees": [
+      "Montseveroux",
+      "Bozancieux"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 26]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Nerpol-et-Serres",
+    "communes_fusionnees": [
+      "Nerpol",
+      "Serre"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 27]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Poliénas",
+    "communes_fusionnees": [
+      "Poliénas",
+      "La Roche-Montferrie"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 28]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Pontcharra",
+    "communes_fusionnees": [
+      "Pontcharra",
+      "Villards-Benoit"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 29]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Saint-André-la-Palud",
+    "communes_fusionnees": [
+      "Saint-André-la-Palud",
+      "Le Guaz"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 30]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Saint-Appolinard",
+    "communes_fusionnees": [
+      "Saint-Appolinard",
+      "Serves"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 31]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Saint-Baudille-et-Pipet",
+    "communes_fusionnees": [
+      "Saint-Baudille",
+      "Pipet"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 32]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Saint-Chef",
+    "communes_fusionnees": [
+      "Saint-Chef",
+      "Arcisses",
+      "Chamont",
+      "Crucilleux",
+      "Laval-de-Saint-Chef",
+      "Montcarra",
+      "Trieux",
+      "Vercin"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 33]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Saint-Égrève",
+    "communes_fusionnees": [
+      "Saint-Égrève",
+      "Saint-Robert"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 34]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Saint-Étienne-de-Crossey",
+    "communes_fusionnees": [
+      "Saint-Étienne-de-Crossey",
+      "Tolvon"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 35]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Saint-Just-Chaleyssin",
+    "communes_fusionnees": [
+      "Saint-Just",
+      "Chaleyssin"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 36]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Saint-Marcel",
+    "communes_fusionnees": [
+      "Saint-Marcel",
+      "Messenas"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 37]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Saint-Marcellin",
+    "communes_fusionnees": [
+      "Saint-Marcellin",
+      "Plan"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 38]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Saint-Martin-d'Hères",
+    "communes_fusionnees": [
+      "Saint-Martin-d'Hères",
+      "Poisat(rétablie en 1800)"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Arch. 8]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Saint-Nazaire",
+    "communes_fusionnees": [
+      "Saint-Nazaire",
+      "Clèmes"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 39]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Saint-Nicolas-de-Macherin",
+    "communes_fusionnees": [
+      "Saint-Nicolas-de-Macherin",
+      "Hautefort"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 40]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Saint-Pierre-d'Allevard",
+    "communes_fusionnees": [
+      "Saint-Pierre-d'Allevard",
+      "La Bâtie-d'Arvillard",
+      "Les Étappes"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 41]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Saint-Savin",
+    "communes_fusionnees": [
+      "Saint-Savin",
+      "Demptezieu"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 42]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Saint-Vérand",
+    "communes_fusionnees": [
+      "Saint-Vérand",
+      "Quincivet"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 43]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Saint-Vincent-de-Mercuze",
+    "communes_fusionnees": [
+      "Saint-Vincent-de-Mercuze",
+      "Bellechambre"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 44]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Savas-Mépin",
+    "communes_fusionnees": [
+      "Savas",
+      "Mépin"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 45]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Sérézin-de-la-Tour",
+    "communes_fusionnees": [
+      "Sérézin-de-la-Tour",
+      "Buffières(transférée en 1801 àSuccieu)",
+      "Saint-Victor-de-Cessieu(commune rétablie entre 1795 et 1800)",
+      "Succieu(commune rétablie entre 1795 et 1800)"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 46]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Siccieu-Saint-Julien",
+    "communes_fusionnees": [
+      "Siccieu",
+      "Saint-Julien"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 47]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Theys",
+    "communes_fusionnees": [
+      "Theys",
+      "Herculais"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 48]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Vercieu[Note 8]",
+    "communes_fusionnees": [
+      "Montalieu",
+      "Vercieu"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 49]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Vif",
+    "communes_fusionnees": [
+      "Vif",
+      "Genevray"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 50]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Villemoirieu",
+    "communes_fusionnees": [
+      "Villemoirieu",
+      "Beptenoud"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 51]",
+    "date_effet": ""
+  },
+  {
+    "nouvelle_commune": "Vourey",
+    "communes_fusionnees": [
+      "Vourey",
+      "Vourey-de-Moirans"
+    ],
+    "regime": "fusion",
+    "date_decision": "1790-1794[Cass. 52]",
+    "date_effet": ""
+  }
+]
