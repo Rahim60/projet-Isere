@@ -32,7 +32,7 @@ function ZoomToFeature({ feature }) {
 export default function Map({ geojsonData, selectedFeature }) {
   return (
     <>
-      <h1 className='text-center'>Le département de l'Isère</h1>
+      <h1 className='text-center'>Le département de l&aposIsère</h1>
 
       {/* Conteneur de la carte avec centre et zoom par défaut */}
       <MapContainer

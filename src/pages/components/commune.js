@@ -11,7 +11,7 @@ export default function Commune({ onLoaded }) {
         if (onLoaded) onLoaded(data); // Transmet les communes vers le parent
       })
       .catch((error) => console.error("Erreur :", error));
-  },[]);
+  });
 
   return null; // ne rien afficher visuellement
 }

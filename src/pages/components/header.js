@@ -8,7 +8,7 @@ export default function Header() {
         }}
       >
         <div className="container">
-          <h1 className="m-0 fs-4 fw-normal">Recherche sur les communes de l'Isère</h1>
+          <h1 className="m-0 fs-4 fw-normal">Recherche sur les communes de l&aposIsère</h1>
         </div>
       </header>
     );
