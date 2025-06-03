@@ -7,19 +7,17 @@ function ZoomToFeature({ feature }) {
   const map = useMap();
 
   useEffect(() => {
-    if (!feature) return;
+    if (typeof window === "undefined" || !map || !feature) return;
 
     const coords = feature.geometry.coordinates;
     let bounds = [];
 
-    // Gestion des types de géométrie : Polygon ou MultiPolygon
     if (feature.geometry.type === "Polygon") {
       bounds = coords[0].map(([lng, lat]) => [lat, lng]);
     } else if (feature.geometry.type === "MultiPolygon") {
       bounds = coords[0][0].map(([lng, lat]) => [lat, lng]);
     }
 
-    // Zoom automatique si des coordonnées sont disponibles
     if (bounds.length > 0) {
       map.fitBounds(bounds);
     }
