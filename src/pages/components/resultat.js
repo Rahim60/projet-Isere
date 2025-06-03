@@ -6,12 +6,12 @@ export default function Resultat({ nomCommune, communesActuelles, annee }) {
 
   useEffect(() => {
     if (!nomCommune) return;
-    if(!annee) annee=null;
+    const anneeParam = annee ? annee : null;
 
     const fetchData = async () => {
       try {
         // Appel à l'API pour récupérer les événements liés à la commune
-        const response = await fetch(`https://mi-phpmut.univ-tlse2.fr/~rahman.djobo/Humanite/timeline2.php?name=${nomCommune}&year=${annee}`);
+        const response = await fetch(`https://mi-phpmut.univ-tlse2.fr/~rahman.djobo/Humanite/timeline2.php?name=${nomCommune}&year=${anneeParam}`);
         const data = await response.json();
 
         // Si des données sont trouvées, on les stocke
